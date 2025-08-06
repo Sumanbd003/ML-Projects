@@ -5,6 +5,7 @@ A collection of machine learning and deep learning projects built while learning
 ## Projects
 
 - [01 - EDA - Titanic](./01-EDA-Titanic)
+- [01 - EDA - Deepavali Sales Analysis](./01-EDA-Deepavali_Sales_Analysis)
 - [02 - Regression - CO2 Prediction](./02-Regression-CO2-Prediction)
 - [03 - Classification - Loan Prediction](./03-Classification-LoanPrediction)
 - [04 - Customer Segmentation - KMeans](./04-CustomerSegmentation-KMeans)
